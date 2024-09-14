@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: d0fa622650635e948a5d07d31beee1a2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FIll_fundo
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 3619
+        width: 3166
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 96, y: 95, z: 96, w: 95}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18083a68178cd294bb6f691a62c39d4c
+      internalID: 545947949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill_vermelho
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3385
+        width: 3011
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 87, y: 0, z: 100, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a552284c98d6345b602dcbc4ae2034
+      internalID: -1171374916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 3359
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05bc89ef0483914082a4a8bcd169b55
+      internalID: 139323978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 3359
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace247104506994e94babeb83c02b46
+      internalID: -1645998842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIll_Azul
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2901
+        width: 3013
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 93, y: 0, z: 96, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1442e5b35d2ee64993fd29da4165275
+      internalID: 1724480866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PedraVermelha
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 2005
+        width: 835
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 293, y: 304, z: 283, w: 312}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40fdd03ec3e3f043a2d900870c384ba
+      internalID: 1240861746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PedraAzul
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2047
+        width: 745
+        height: 733
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 170, y: 204, z: 168, w: 212}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb9a878b5d57db469a4728dacee5763
+      internalID: -634476982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PedraVerde
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2056
+        width: 704
+        height: 681
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 144, y: 151, z: 169, w: 140}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fd95ae7011284880f9d24bd9c5476
+      internalID: 1892108839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pedra01
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1040
+        width: 3643
+        height: 843
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 106, y: 165, z: 117, w: 157}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da900ceffcff7de46811f42a4362f6c9
+      internalID: -456596068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Pedra02
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 102
+        width: 3568
+        height: 812
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 113, y: 161, z: 106, w: 149}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f980484d5f81cda409b889c146f55a4e
+      internalID: 894402242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill_Verde
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3153
+        width: 3014
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 90, y: 0, z: 94, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c109b5ed5dd3e140a6519a91afe59b9
+      internalID: 1777133834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FIll_Azul: 1724480866
+      FIll_fundo: 545947949
+      Fill_Verde: 1777133834
+      Fill_vermelho: -1171374916
+      PedraAzul: -634476982
+      PedraVerde: 1892108839
+      PedraVermelha: 1240861746
+      Sprite_Pedra01: -456596068
+      Sprite_Pedra02: 894402242
+      Sprites_1: 1775464499
+      Sprites_10: -164175090
+      Sprites_100: -603567759
+      Sprites_101: -2045573037
+      Sprites_102: -139808868
+      Sprites_103: 1843075143
+      Sprites_104: 967819591
+      Sprites_105: 1844164645
+      Sprites_106: -2093679198
+      Sprites_107: 1135629504
+      Sprites_108: 1495180687
+      Sprites_109: -223065794
+      Sprites_11: 111440755
+      Sprites_110: 2069996867
+      Sprites_111: 1991242300
+      Sprites_112: 2131668814
+      Sprites_113: -255476494
+      Sprites_114: -1601694388
+      Sprites_115: -227219011
+      Sprites_116: -1543088825
+      Sprites_117: 351280011
+      Sprites_118: 401820637
+      Sprites_119: -382390032
+      Sprites_12: 337731111
+      Sprites_120: -1545563786
+      Sprites_121: 2094727888
+      Sprites_122: -1563252552
+      Sprites_123: -775252284
+      Sprites_124: -1130798003
+      Sprites_125: 441454251
+      Sprites_126: 670837801
+      Sprites_127: -596641531
+      Sprites_128: -1406403423
+      Sprites_129: 1783352957
+      Sprites_13: 768372655
+      Sprites_130: -1766941630
+      Sprites_131: -2141617863
+      Sprites_132: -699067224
+      Sprites_133: -1148714548
+      Sprites_134: -120223216
+      Sprites_135: -151971665
+      Sprites_136: -2020562040
+      Sprites_137: 739237372
+      Sprites_138: -1410353882
+      Sprites_139: -1666949826
+      Sprites_14: -2083725914
+      Sprites_141: 1706546101
+      Sprites_142: -65483035
+      Sprites_143: 681646419
+      Sprites_144: -1185506186
+      Sprites_145: 301894007
+      Sprites_146: -718603642
+      Sprites_147: -562057463
+      Sprites_148: 847535874
+      Sprites_149: -1074710477
+      Sprites_15: 1195865167
+      Sprites_150: 1963675953
+      Sprites_151: 275983218
+      Sprites_152: -885418388
+      Sprites_153: 388426627
+      Sprites_154: -945199604
+      Sprites_155: -631703379
+      Sprites_156: 1830905741
+      Sprites_157: -1615471857
+      Sprites_158: 1838661768
+      Sprites_159: 917276532
+      Sprites_16: 555775283
+      Sprites_160: -1631392402
+      Sprites_161: 1815420855
+      Sprites_162: 2099251660
+      Sprites_163: -1509145534
+      Sprites_164: -1679201605
+      Sprites_166: 1437055898
+      Sprites_167: 1654278536
+      Sprites_168: 104269440
+      Sprites_169: -268705012
+      Sprites_170: -748563470
+      Sprites_171: 1374868286
+      Sprites_172: 390978849
+      Sprites_173: 538324192
+      Sprites_174: 1073780282
+      Sprites_175: -561462020
+      Sprites_176: -1015426697
+      Sprites_177: 1380147251
+      Sprites_178: 1006267612
+      Sprites_179: 416399376
+      Sprites_18: 459096707
+      Sprites_180: 266633574
+      Sprites_181: 1444255868
+      Sprites_182: 1433640821
+      Sprites_19: 1570969741
+      Sprites_2: -267551876
+      Sprites_20: -838832093
+      Sprites_21: 503546538
+      Sprites_22: 932215286
+      Sprites_23: 139323978
+      Sprites_24: -1645998842
+      Sprites_25: -1130253818
+      Sprites_26: 444851535
+      Sprites_27: 1283277338
+      Sprites_28: -542806617
+      Sprites_29: -43909486
+      Sprites_3: 1440702729
+      Sprites_30: 28794704
+      Sprites_32: 11177772
+      Sprites_33: -1334133074
+      Sprites_34: -1916082240
+      Sprites_35: -440611986
+      Sprites_36: 1553953548
+      Sprites_37: 1805793528
+      Sprites_38: 755626229
+      Sprites_39: -913827549
+      Sprites_4: -1480596652
+      Sprites_40: -498172337
+      Sprites_42: 2027741639
+      Sprites_43: 326692507
+      Sprites_44: -547211952
+      Sprites_45: -561281199
+      Sprites_47: 1631145857
+      Sprites_48: -1736182325
+      Sprites_49: -548893023
+      Sprites_5: 2066082592
+      Sprites_50: -629175153
+      Sprites_51: 814599661
+      Sprites_52: -743996927
+      Sprites_53: 1649240480
+      Sprites_54: -1749687202
+      Sprites_55: 2046453107
+      Sprites_56: -8051130
+      Sprites_57: -728415754
+      Sprites_58: -1553869360
+      Sprites_59: 1944314324
+      Sprites_60: 48894207
+      Sprites_61: -1114700164
+      Sprites_62: 1051763813
+      Sprites_63: -1137523808
+      Sprites_64: -525853808
+      Sprites_65: -1729136377
+      Sprites_66: 1459589538
+      Sprites_68: 2111708487
+      Sprites_69: -713271727
+      Sprites_7: 1126590044
+      Sprites_70: -1397044407
+      Sprites_71: -353916815
+      Sprites_72: 698166639
+      Sprites_73: -1521489303
+      Sprites_74: 114448366
+      Sprites_75: -619916257
+      Sprites_76: 1912417861
+      Sprites_77: -1015999276
+      Sprites_78: 462523220
+      Sprites_79: 1427255750
+      Sprites_8: -930238987
+      Sprites_80: -1744916722
+      Sprites_81: -1993309979
+      Sprites_82: -81711996
+      Sprites_83: 633578416
+      Sprites_84: 676194078
+      Sprites_85: -1293446327
+      Sprites_86: -1282286056
+      Sprites_87: 975692103
+      Sprites_88: -902700881
+      Sprites_89: -1947597497
+      Sprites_9: -1016714563
+      Sprites_90: -368241469
+      Sprites_91: 632090000
+      Sprites_92: -390730830
+      Sprites_93: 786878327
+      Sprites_94: -1899637430
+      Sprites_95: -242026419
+      Sprites_96: -1553962911
+      Sprites_97: 595807921
+      Sprites_98: -1454179478
+      Sprites_99: 942697923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

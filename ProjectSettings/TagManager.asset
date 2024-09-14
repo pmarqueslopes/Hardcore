@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DATA
+  - Event
+  - Waypoint
+  - isGrounded
+  - Item
+  - ItemDataBase
+  - Forge
+  - Canvas
+  - AllInventory
+  - DropBox
+  - Equip System
+  - Inventory
+  - CristalAzul
+  - CristalVermelho
+  - CristalVerde
+  - CraftSystem
+  - BlueprintDataBase
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - whatIsGround
+  - PP
+  - parede
+  - iconeMinimapa
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

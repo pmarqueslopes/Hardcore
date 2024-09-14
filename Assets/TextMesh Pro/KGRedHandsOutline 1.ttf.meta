@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0ebfd3639e022f2499c97c8c4fe28fcc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - KG Red Hands Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8821f9ed62c83664e98f4d6bdf620f88, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

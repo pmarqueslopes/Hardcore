@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: af8001ad2c6e89842b599d63fcf721cf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aachen BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: befeb2de2c7185d429b90d0730a99f88, type: 3}
+  - {fileID: 12800000, guid: 48c4d4bf78fd33e4799da25e1a51af3e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
